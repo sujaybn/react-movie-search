@@ -11,6 +11,10 @@ To run the app locally, follow these simple steps:
 3. Run the following command:
 
    ```
+   npm install react-scripts --save-dev
+   ```
+
+   ```
    npm start
    ```
 
